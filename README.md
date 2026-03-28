@@ -35,4 +35,7 @@ sans entrer dans les détails des méthodes appelées.
    - Classe : CartSummaryViewComponent
    - Méthode : Invoke()
 
+## Q10 — Lien exécutable Windows
+
+[Télécharger l'exécutable](https://drive.google.com/file/d/1VJp_CIvwhYP4B3C59LQqsfytuEWsg6VC/view?usp=sharing)
 
